@@ -1,0 +1,114 @@
+[{
+    "eid": "SUMMARY",
+    "ets": 1700152439657,
+    "ver": "3.1",
+    "mid": "aed236f53-6160-4dc5-81a3-74df93e2cd0b",
+    "actor": { "id": "352c42be-a254-4c91-9d3c-405133e8168c", "type": "System" },
+    "context": {
+      "channel": "*u*]_Ky\\",
+      "pdata": { "id": "sunbird-portal", "pid": "sunbird-portal.collectioneditor.contentplayer", "ver": "8", "platform": "iOS" },
+      "env": "public",
+      "sid": "9ec83cfa-b7c9-42cd-9075-87c242dad939",
+      "did": "device-529",
+      "cdata": [{ "type": "f5ac2d9c-46a2-4149-9123-55a4c5b6bc88", "id": "f146a89c-0bfe-4f22-a0d3-0e9c705102fb" }],
+      "rollup": { "l1": "do_2127270883650600961273", "l2": "do_21273327871526502413924", "l3": "do_312593229238837248123109", "l4": "do_21271780182595993616932" },
+      "uid": "524b63c0-d819-4fe4-b900-d78a90eda4a2"
+    },
+    "object": {
+      "id": "do_21271780182595993616932",
+      "type": "Community",
+      "ver": "2",
+      "rollup": { "l1": "do_312469507013812224118164", "l2": "do_312466405614305280216635", "l3": "do_21271780182595993616932", "l4": "do_312469507013812224118164" }
+    },
+    "edata": {
+      "type": "app",
+      "mode": "offline",
+      "starttime": 1705887592498,
+      "endtime": 2855868039757,
+      "timespent": 381,
+      "pageviews": 99,
+      "interactions": 782,
+      "envsummary": [{ "env": "resource", "timespent": 80, "visits": 290 }],
+      "eventssummary": [{ "id": "CP_INTERACT", "count": 220 }],
+      "pagesummary": [{ "id": ">5rlT?;sYp", "type": "edit", "env": "38]F$`B:h6", "timespent": 973, "visits": 170 }]
+    },
+    "tags": ["266bd416-360b-4f8c-a758-1b210874ecc7", "e4bb69c0-ee2c-4e4f-9ec9-63f1065a3c2a"],
+    "syncts": 1700152439657,
+    "@timestamp": "2023-11-16T16:33:59.657Z"
+  },
+  {
+    "eid": "SUMMARY",
+    "ets": 1700652064640,
+    "ver": "3.1",
+    "mid": "a1d645c8e-b7c3-463b-b2fd-ef6867e1860b",
+    "actor": { "id": "2f550e67-90b9-4122-8b46-906e28ceb9de", "type": "User" },
+    "context": {
+      "channel": "dM\"f|JK|",
+      "pdata": { "id": "sunbird-portal", "pid": "sunbird-portal.contenteditor", "ver": "3", "platform": "iOS" },
+      "env": "public",
+      "sid": "01480e75-5beb-4def-b25c-f31f8ca0e370",
+      "did": "device-708",
+      "cdata": [{ "type": "928af892-bd7a-4eb9-b670-306aca4370d2", "id": "ee61acee-8398-488d-97cb-187c4f9de552" }],
+      "rollup": { "l1": "do_312593229238837248123109", "l2": "do_2127270883650600961273", "l3": "do_312593229238837248123109", "l4": "do_312470914624577536218447" },
+      "uid": "470550cb-ddf9-40ae-8a3f-20bc35ec8782"
+    },
+    "object": {
+      "id": "do_21270182445096140811457",
+      "type": "Community",
+      "ver": "3",
+      "rollup": { "l1": "do_21270182445096140811457", "l2": "do_312470914624577536218447", "l3": "do_21271780182595993616932", "l4": "do_21271780182595993616932" }
+    },
+    "edata": {
+      "type": "session",
+      "mode": "offline",
+      "starttime": 2764958204321,
+      "endtime": 1492465495256,
+      "timespent": 923,
+      "pageviews": 71,
+      "interactions": 995,
+      "envsummary": [{ "env": "domain", "timespent": 52, "visits": 395 }],
+      "eventssummary": [{ "id": "CE_END", "count": 686 }],
+      "pagesummary": [{ "id": "5{mTe:cGjt", "type": "view", "env": "\\r&R]@p!P-", "timespent": 429, "visits": 521 }]
+    },
+    "tags": ["33b5c2ae-7fba-4dc7-8303-3c0107ff0a64", "ddd96bce-2439-4fbb-8288-b2b45b898ea7"],
+    "syncts": 1700652064640,
+    "@timestamp": "2023-11-22T11:21:04.640Z"
+  },
+  {
+    "eid": "SUMMARY",
+    "ets": 1695647028943,
+    "ver": "3.1",
+    "mid": "aa0052553-1dd6-4ff1-b772-4ff4e1cd2319",
+    "actor": { "id": "a21b9a1e-50c9-49d9-8ced-6dd1038e3654", "type": "User" },
+    "context": {
+      "channel": "x?EdEn||",
+      "pdata": { "id": "sunbird-portal", "pid": "sunbird-portal.collectioneditor", "ver": "10", "platform": "Windows" },
+      "env": "user",
+      "sid": "9eeba737-2de6-4779-93d4-42691f6a5a9c",
+      "did": "device-380",
+      "cdata": [{ "type": "31f21689-5fd3-4773-991d-a064d8720542", "id": "6063ef8a-26be-4db9-9fe8-a0e7005f442f" }],
+      "rollup": { "l1": "do_312466405614305280216635", "l2": "do_312593229238837248123109", "l3": "do_21274109254696140814898", "l4": "do_21274109254696140814898" },
+      "uid": "d0f99bb6-047f-4f72-8dfa-c30aa32eca96"
+    },
+    "object": {
+      "id": "content-180",
+      "type": "Content",
+      "ver": "1",
+      "rollup": { "l1": "do_2127270883650600961273", "l2": "do_2127270883650600961273", "l3": "do_312470914624577536218447", "l4": "do_21273610197362278414264" }
+    },
+    "edata": {
+      "type": "session",
+      "mode": "offline",
+      "starttime": 1226685890107,
+      "endtime": 1540481750319,
+      "timespent": 836,
+      "pageviews": 661,
+      "interactions": 138,
+      "envsummary": [{ "env": "content", "timespent": 46, "visits": 232 }],
+      "eventssummary": [{ "id": "CE_END", "count": 232 }],
+      "pagesummary": [{ "id": "DgU)vQv,d*", "type": "view", "env": "vf#d*IWcb,", "timespent": 397, "visits": 48 }]
+    },
+    "tags": ["094030fa-385c-437c-bee6-1d5bf4861ee3", "70b349cb-ffd0-44f4-85df-7288adc70afa"],
+    "syncts": 1695647028943,
+    "@timestamp": "2023-09-25T13:03:48.943Z"
+  }]
